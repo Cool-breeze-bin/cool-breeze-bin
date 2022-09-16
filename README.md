@@ -3,6 +3,7 @@
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
 
+[](https://time.youdoo.cn/)
 - 🔭 I'm studying at TFSWUFE
 - 🌱 I’m currently learning Python/TensorFlow2.x
 - 💬 Ask me about ...

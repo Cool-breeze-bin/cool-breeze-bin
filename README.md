@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-web:[https://a.fangbinbin](https://a.fangbinbin)
+HomePage:
+[https://a.fangbinbin.top](https://a.fangbinbin.top)
+
+- 🔭 I'm studying at TFSWUFE
+- 🌱 I’m currently learning Python/TensorFlow2.x
+- 💬 Ask me about ...
+
 <!--
 **Cool-breeze-bin/cool-breeze-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

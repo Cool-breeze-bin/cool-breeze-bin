@@ -3,13 +3,7 @@
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
 
-<div style="background-color: yellow;height:500px">
-    <div style="width: 60%;margin-left: 20%;background-color:yellowgreen;margin-top: 0%;">
-<!--         <textarea style="display:none;" th:text="${blog.content}"></textarea> -->
-    </div>
-</div>
-
-<html>[aaa](https://time.youdoo.cn/)</html>
+<iframe src='https://time.youdoo.cn/'></iframe>
 
 - 🔭 I'm studying at TFSWUFE
 - 🌱 I’m currently learning Python/TensorFlow2.x

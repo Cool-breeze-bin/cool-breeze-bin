@@ -6,7 +6,7 @@ HomePage:
 
 
 <p align="center">
-    <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" />
+    <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='200px'/>
 </p>
 
 - 🔭 I'm studying at TFSWUFE

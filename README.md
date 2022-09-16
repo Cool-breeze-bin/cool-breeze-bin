@@ -3,13 +3,18 @@
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
 
-![](https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg)
+
+
+<p align="center">
+    <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" />
+</p>
 
 - 🔭 I'm studying at TFSWUFE
 - 🌱 I’m currently learning Python/TensorFlow2.x
 - 💬 Ask me about ...
 
 <!--
+![](https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg)
 **Cool-breeze-bin/cool-breeze-bin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

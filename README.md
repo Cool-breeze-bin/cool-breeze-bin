@@ -2,7 +2,7 @@
 
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
-![](https://img1.baidu.com/it/u=802757532,4169363387&fm=253&fmt=auto&app=138&f=PNG?w=750&h=500)
+![](https://img2.baidu.com/it/u=579750560,2638245078&fm=253&fmt=auto&app=138&f=JPEG?w=236&h=130)
 - 🔭 I'm studying at TFSWUFE
 - 🌱 I’m currently learning Python/TensorFlow2.x
 - 💬 Ask me about ...

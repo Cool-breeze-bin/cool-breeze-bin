@@ -3,7 +3,7 @@
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
 
-![](https://img2.baidu.com/it/u=579750560,2638245078&fm=253&fmt=auto&app=138&f=JPEG?w=236&h=130)
+![](https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg#pic_center=300x100)
 
 - 🔭 I'm studying at TFSWUFE
 - 🌱 I’m currently learning Python/TensorFlow2.x

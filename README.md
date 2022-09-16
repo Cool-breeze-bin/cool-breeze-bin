@@ -6,6 +6,8 @@ HomePage:
 
 
 <p align="center">
+    <h3>HomePage:</h3>
+    <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a>
     <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='400px'/>
 </p>
 

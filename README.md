@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋</h3>
 
-<h4 align="center">HomePage</h4>
+<h4 align="center">HomePage: <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a></h4>
 
 <a href='https://a.fangbinbin.top' align="center">https://a.fangbinbin.top</a>
 

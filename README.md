@@ -1,4 +1,4 @@
-<h3 align="center">👋Hi,Welcome to my GitHub Home!👋</h3>
+<h3 align="center">🌈Hi🌈<br>🎉Welcome to my GitHub!🎉</h3>
 
 <h4 align="center">HomePage: <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a></h4>
 

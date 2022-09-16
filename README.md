@@ -1,10 +1,8 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
-<p align="center">
-<h3 align="center">HomePage:</h3>
-</p>
+<h4 align="center">HomePage</h4>
 
-<a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a>
+<a href='https://a.fangbinbin.top' align="center">https://a.fangbinbin.top</a>
 
 <p align="center">
     <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='400px'/>

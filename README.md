@@ -2,11 +2,13 @@
 
 HomePage:
 [https://a.fangbinbin.top](https://a.fangbinbin.top)
-<div style="background-color: yellow">
-    <div id="doc-content" style="width: 60%;margin-left: 20%;background-color:yellowgreen;margin-top: 0%;">
-        <textarea style="display:none;" th:text="${blog.content}"></textarea>
+
+<div style="background-color: yellow;height:100px">
+    <div style="width: 60%;margin-left: 20%;background-color:yellowgreen;margin-top: 0%;">
+<!--         <textarea style="display:none;" th:text="${blog.content}"></textarea> -->
     </div>
 </div>
+
 <html>[aaa](https://time.youdoo.cn/)</html>
 
 - 🔭 I'm studying at TFSWUFE

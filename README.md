@@ -2,7 +2,7 @@
 
 <h4 align="center">HomePage: <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a></h4>
 
-<div align="center" style="border-radius: 20px;">
+<div align="center">
     <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='400px'/>
 </div>
 

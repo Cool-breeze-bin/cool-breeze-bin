@@ -2,9 +2,9 @@
 
 <h4 align="center">HomePage: <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a></h4>
 
-<p align="center" style="border-radius: 20px;">
+<div align="center" style="border-radius: 20px;">
     <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='400px'/>
-</p>
+</div>
 
 <!--
 ![](https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg)

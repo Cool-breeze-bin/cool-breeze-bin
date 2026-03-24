@@ -1,6 +1,6 @@
 <h3 align="center">Hi~<br><br>🎉Welcome to my GitHub!🎉</h3>
 
-<h4 align="center">HomePage: <a href='https://a.fangbinbin.top'>https://a.fangbinbin.top</a></h4>
+<h4 align="center">HomePage: <a href='https://a.fangbin.top'>https://a.fangbinbin.top</a></h4>
 
 <div align="center">
     <img src="https://github.com/Cool-breeze-bin/cool-breeze-bin/blob/main/ai.jpg" alt="React Forget" width='400px'/>
